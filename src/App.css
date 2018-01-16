@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.ListGroup {
+  display: flex;
+  flex-direction: row;
+}
